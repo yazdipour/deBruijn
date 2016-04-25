@@ -18,10 +18,10 @@ $$  $$  $$          $$   $$ $$ $$  $$  $$ $$ $$  $$ $$   $$
 $$$$    $$$$$$$     $$$$$   $$  $$ $$$$$$ $$ $$$$$$ $$   $$
 \033[1;m
 \033[1;31m
-Create a de Bruijn sequence of a k sized alphabet with string length of n . Please note that the sequence is circular. 
+Create a de Bruijn sequence of a k sized alphabet with string length of n. Please note that the sequence is circular. 
 \033[1;m
 
- \033[1;32m+ -- -- +=[ Author: RenatoSilva | Homepage: www.tugasec.com\033[1;m
+ \033[1;32m+ -- -- +=[ Author: RenatoSilva | Github: github.com/Renato-Silva\033[1;m
 '''
 
 
